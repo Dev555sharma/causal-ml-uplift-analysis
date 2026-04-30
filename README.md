@@ -13,6 +13,31 @@
 🧠 Methods:
 PSM • T-Learner • X-Learner • Causal Forest • SHAP
 
+## ❓ Problem Statement
+
+Traditional machine learning predicts outcomes but cannot answer:
+
+> “Did the campaign actually cause the customer to convert?”
+
+This project uses causal inference to estimate:
+- Average Treatment Effect (ATE)
+- Individual Treatment Effect (ITE)
+- Uplift for targeted marketing
+
+## ⚡ Quick Start
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+
+2. Run notebooks in order
+01_EDA.ipynb
+02_Baseline_Model.ipynb
+03_PSM.ipynb
+04_Meta_Learners.ipynb
+05_Causal_Forest.ipynb
+06_Uplift_Analysis.ipynb
+
 ## 🚀 Project Overview
 
 This project develops a **causal machine learning framework** to estimate the impact of marketing email campaigns on customer conversion behavior.
