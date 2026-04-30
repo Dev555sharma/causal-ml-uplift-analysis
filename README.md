@@ -1,7 +1,17 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Causal-orange)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 # 📊 Causal Machine Learning for Marketing Uplift Analysis
+
+> Identifying *who actually benefits* from marketing campaigns using causal inference and uplift modeling.
+
+📈 Key Result:
+- +0.5% causal lift in conversion
+- 3–5x improvement via targeted campaigns
+
+🧠 Methods:
+PSM • T-Learner • X-Learner • Causal Forest • SHAP
 
 ## 🚀 Project Overview
 
