@@ -26,8 +26,7 @@ This project uses causal inference to estimate:
 
 ## ⚡ Quick Start
 
-### 1. Install dependencies
-```bash
+1. Install dependencies
 pip install -r requirements.txt
 
 2. Run notebooks in order
