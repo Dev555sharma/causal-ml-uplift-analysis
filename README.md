@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Causal-orange)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 # 📊 Causal Machine Learning for Marketing Uplift Analysis
 
 ## 🚀 Project Overview
